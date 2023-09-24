@@ -22,7 +22,7 @@ To contribute to this project or customize the script for your own use, follow t
 
 3.  **Contribute!**
     ```sh
-    cd DmojQuickSrc
+    cd dmojQuickSrc
     ```
     * All Scripts is just in the content.js
 
