@@ -13,6 +13,7 @@ To contribute to this project or customize the script for your own use, follow t
 1. **Clone the Repository:**
 
    ```sh
+   git clone https://github.com/JackyLiu13/dmojQuickSrc
    ```
 
 2.  **Add Extension:**
@@ -31,7 +32,7 @@ To contribute to this project or customize the script for your own use, follow t
 
 ## Credits ##
     [Jacky Liu 09/24/2023]("https://github.com/JackyLiu13")
-        
+
 
 
 
