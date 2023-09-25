@@ -34,7 +34,7 @@ To contribute to this project or customize the script for your own use, follow t
     * Have fun :)
 
 ## Credits ##
-    [Jacky Liu 09/24/2023]("https://github.com/JackyLiu13")
+    <a href="https://github.com/JackyLiu13">Jacky Liu 09/24/2023</a>
 
 
 
