@@ -18,11 +18,14 @@ To contribute to this project or customize the script for your own use, follow t
 
 2.  **Add Extension:**
     * Enter into the URL: chrome://extensions 
+    * Press Load unpack, and select dmojQuickSrc
+    * Head onto Dmoj on https://dmoj.ca/submissions/user/{username}/
+    * Now you should have a new button under the view button :)
 
 
 3.  **Contribute!**
     ```sh
-    cd DmojQuickSrc
+    cd dmojQuickSrc
     ```
     * All Scripts is just in the content.js
 
@@ -31,7 +34,7 @@ To contribute to this project or customize the script for your own use, follow t
     * Have fun :)
 
 ## Credits ##
-    [Jacky Liu 09/24/2023]("https://github.com/JackyLiu13")
+    <a href="https://github.com/JackyLiu13">Jacky Liu 09/24/2023</a>
 
 
 
